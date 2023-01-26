@@ -48,3 +48,6 @@ def score_game(random_predict) -> int:
 
 if __name__ == '__main__': #специальная строка для вывода в юпитере
     score_game(random_predict)
+    
+#pip freeze > requirements.txt
+#pip install -r requirements.txt

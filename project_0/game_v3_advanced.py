@@ -10,14 +10,23 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: count chances
     """    
+    
     count = 0
-
+    min = 1
+    max = 101
+    predictable_number = np.random.randint(1,101)
     while True:
         count +=1
-        predictable_number = np.random.randint(1,101)
         if predictable_number == number:
             break
-    print(f'Количество попыток: {count}')
+        elif predictable_number > number:
+            max = predictable_number
+            predictable_number = (max+min)//2
+        else:
+            min = predictable_number
+            predictable_number = (max+min)//2
+                        
+    print(f'Число {number} отгадано! Количество попыток: {count}')
     return count 
 
 

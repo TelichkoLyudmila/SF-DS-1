@@ -8,3 +8,5 @@
   * [First_game_on_python] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/Kaggle%20and%20other/First_game_on_python)
   * [Kaggle_clients_charts] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/Kaggle%20and%20other/Kaggle_clients_charts)
   * [Project 3. - Kaggle_EDA_statistic_tests] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/Kaggle%20and%20other/Kaggle_EDA_statistic_tests)
+
+* [Project 4. ML - задача классификации, подбор гиперпараметров] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/project_4)

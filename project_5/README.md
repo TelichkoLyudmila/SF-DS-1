@@ -63,6 +63,8 @@ https://www.kaggle.com/competitions/nyc-taxi-trip-duration/discussion/39553
 5	Random Forest	                    0.40	            0.41
 6	GradientBoostingRegressor	        0.37	            0.39
 
+image.png
+
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 

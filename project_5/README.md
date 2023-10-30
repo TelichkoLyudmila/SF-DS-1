@@ -54,16 +54,16 @@ https://www.kaggle.com/competitions/nyc-taxi-trip-duration/discussion/39553
 ### Результаты:  
 Лучшие результаты получены в итоге модели Gradient Boosting
 
-	model	                            RMSLE_train_score	RMSLE_valid_score
-0	Linear regression	                0.54	            0.54
-1	Poly skylearn	                    0.47	            0.70
-2	Poly skylearn+L2	                0.48	            0.48
-3	DecisionTreeRegressor	            0.00	            0.57
-4	DecisionTreeRegressor - maxd11	    0.41	            0.43
-5	Random Forest	                    0.40	            0.41
-6	GradientBoostingRegressor	        0.37	            0.39
+|	|model	                            |RMSLE_train_score	|RMSLE_valid_score |
+|--	|---------------------------------- |:-----------------:| ----------------:|
+|0	|Linear regression	                |0.54	            |0.54			   |	
+|1	|Poly skylearn	                    |0.47	            |0.70			   |	
+|2	|Poly skylearn+L2	                |0.48	            |0.48			   |	
+|3	|DecisionTreeRegressor	            |0.00	            |0.57			   |	
+|4	|DecisionTreeRegressor - maxd11	    |0.41	            |0.43			   |	
+|5	|Random Forest	                    |0.40	            |0.41			   |	
+|6	|GradientBoostingRegressor	        |0.37	            |0.39			   |	
 
-image.png
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 

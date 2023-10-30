@@ -5,6 +5,7 @@
 * [Project 2. Анализ вакансий HH с помощью Python, SQL] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/project_2)
 * [Project 3. Соревнование на Kaggle по данным Booking] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/project_3)
 * [Project 4. ML - задача классификации, подбор гиперпараметров] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/project_4)
+* [Project 5. ML - задача регрессии, решение кейса такси для Kaggle] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/project_5)
 
 * Kaggle and other
   * [First_game_on_python] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/Kaggle%20and%20other/First_game_on_python)

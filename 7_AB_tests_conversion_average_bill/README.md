@@ -10,11 +10,11 @@
 
 ### Project Description
 
-The project aims to address a marketing challenge: segment existing clients using RFM tables and interpret these segments.
+AB-test based on two criteria — purchase conversion and daily average check.
 
 ### Problem Statement
 
-Analyze the effectiveness of 2 landing page variants for a travel agency based on two criteria — purchase conversion and daily average check.
+Analyze the effectiveness of 2 landing page variants for a travel agency 
 
 **Competition Conditions:**
 Which of the 2 landing page variants provides better conversion and average check metrics, and how stable are the metrics.

@@ -1,6 +1,7 @@
 # DS-projects
 
 ## Projects (the first are more relevant)
+* [Project 9. Optimal Strategy for Elevating Status from Regular User to VIP-9 on Binance for Algorithmic Trading Company] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/9_Binance_optimal_growth_to_9_VIP_status)
 * [Project 8. Diplom_Clustering_regions_based_public_stats] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/8_Diplom_Clustering_regions_based_public_stats)
 * [Project 7. AB_tests_conversion_average_bill] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/7_AB_tests_conversion_average_bill)
 * [Project 6. Segmentation_of_clients_RFM-tables_clustering] (https://github.com/TelichkoLyudmila/SF-DS-1/tree/main/6_Segmentation_of_clients_RFM_tables_clustering)
